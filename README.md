@@ -1,9 +1,4 @@
 # **Marketplace Maps**
-***
-## **[Detection - Under Development]**
-#### `Personal Project` : CaliFerr
-#### `Position` :  Developer, Builder, Modeler, Texture Artist & Particle Engineer.
-***
 ## **[AXOLOTL ISLANDS: SLIME MACHINE](https://www.minecraft.net/en-us/marketplace/pdp?id=09f26fb5-669f-426f-a3de-b1015ed0faec)**
 #### `Team` : TETRASCAPE
 #### `Position` : Particle Engineer.
@@ -33,4 +28,7 @@
 #### `Team` : RedcrewMC
 #### `Position` : Project Manager & Builder.
 ***
-
+## **[Detection - Under Development]**
+#### `Personal Project` : CaliFerr
+#### `Position` :  Developer, Builder, Modeler, Texture Artist & Particle Engineer.
+***
